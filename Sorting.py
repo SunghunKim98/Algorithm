@@ -1,4 +1,5 @@
-# Selection_sorting
+# This file is for reviewing the content of my Algorithm class with Python
+# This file is only for "sorting algorithm".
 
 def selection_sorting(list):
 
